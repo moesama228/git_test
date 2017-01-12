@@ -1,5 +1,5 @@
 def add_one(n):
-    pass
+    return n + 1
 
 def minus_one(n):
     pass
